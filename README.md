@@ -1,6 +1,7 @@
 # Grbl Servo Interface
-An interface between a Grbl Board and a servo.
-Use the original Grbl code without modifications.
+An interface between a Grbl Board and a servo.\
+- Use the original Grbl code without modifications.\
+- You can still use a spindle or laser
 
 Use an Arduino to act as the interface.
 Power the Arduino and the servo to the 5V comming from the Grbl Board.
