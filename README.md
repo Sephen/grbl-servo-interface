@@ -11,3 +11,5 @@ Use the D9 from the arduino to connect to the signal of the servo.
 Change these values to suit your needs:\
 int maxPosition = 55; // When the spindle is turning or laser is on\
 int minPosition = 10; // When both the spindle and laser are off
+
+![alt text](https://github.com/Sephen/grbl-servo-interface/blob/main/fritzingBreadboardImg.png?raw=true)
